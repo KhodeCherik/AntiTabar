@@ -1,4 +1,4 @@
-#**AntiTabar**
+#AntiTabar
 
 #Config.json
 

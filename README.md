@@ -6,12 +6,12 @@ With this robot, you can easily manage your **Telegram channel** and keep it saf
 
 # Config.json
 
-Edit the [config.json](https://github.com/KhodeCherik/AntiTabar/blob/main/config.json) file and paste your information.\
+Edit the [config.json](https://github.com/KhodeCherik/AntiTabar/blob/main/config.json) file and paste your information.
 
-paste The token you got from [BotFather](https://t.me/BotFather) in front of the "**__token__**"\
-paste Your Phone Number in front of the "** __phone__ **"\
-paste owner's chat_id or chat_ids in front of "** __owner__ **"\
-and paste your ** __api_id__ ** and ** __api_hash__ ** you took it from **Telegram**!
+paste The token you got from [BotFather](https://t.me/BotFather) in front of the "**_token_**"\
+paste Your Phone Number in front of the "**_phone_**"\
+paste owner's chat_id or chat_ids in front of "**_owner_**"\
+and paste your **_api_id_** and **_api_hash_** you took it from **Telegram**!
 
 
 # Run Bot
